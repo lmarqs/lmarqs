@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Lucas Marques, a software engineer. I've been working in tech since 2013 and I love mentoring people and contributing with Open Source projects.
+I'm Lucas Marques, a software engineer.
 
 [![Linkedin: lmarqs](https://img.shields.io/badge/-Lucas%20Marques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmarqs/)](https://www.linkedin.com/in/lmarqs/)
 
